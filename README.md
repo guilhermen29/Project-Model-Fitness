@@ -1,5 +1,7 @@
 # 🏋️ Model Fitness – Análise de Churn
 
+
+
 # 📊 Descrição do Projeto
 
 A rede de academias Model Fitness está desenvolvendo uma estratégia de relacionamento com clientes baseada em análise de dados.
