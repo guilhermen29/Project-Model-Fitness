@@ -1,6 +1,6 @@
-🏋️ Model Fitness – Análise de Churn
+# 🏋️ Model Fitness – Análise de Churn
 
-📊 Descrição do Projeto
+# 📊 Descrição do Projeto
 
 A rede de academias Model Fitness está desenvolvendo uma estratégia de relacionamento com clientes baseada em análise de dados.
 
@@ -8,7 +8,7 @@ Um dos principais problemas enfrentados por academias e outros negócios baseado
 
 Neste projeto, realizamos uma análise dos dados dos clientes para identificar padrões e fatores que influenciam o churn, permitindo que a empresa desenvolva estratégias mais eficientes para retenção de clientes.
 
-🎯 Objetivo do Projeto
+# 🎯 Objetivo do Projeto
 
 Os principais objetivos desta análise são:
 
@@ -17,7 +17,7 @@ Identificar padrões associados ao cancelamento de clientes
 Comparar características de clientes que permaneceram e clientes que cancelaram
 Gerar insights que possam ajudar a reduzir o churn
 
-📂 Dataset
+# 📂 Dataset
 
 O conjunto de dados contém informações sobre clientes da academia, incluindo dados demográficos, informações de contrato e comportamento de uso da academia.
 
@@ -44,8 +44,9 @@ Churn
 
 A variável Churn indica se o cliente cancelou ou não a assinatura.
 
-📁 Estrutura do Projeto
+# 📁 Estrutura do Projeto
 
+```
 Projeto-Model-Fitness
 │
 ├── data
@@ -55,11 +56,13 @@ Projeto-Model-Fitness
 │ └── notebook.ipynb
 │
 └── README.md
+```
 
 Localização do notebook:
 
 notebook/notebook.ipynb
-🧪 Metodologia
+
+# 🧪 Metodologia
 
 A análise foi realizada seguindo as seguintes etapas:
 
@@ -71,7 +74,8 @@ Análise estatística do comportamento dos clientes
 Visualização dos dados
 Identificação de padrões de churn
 Conclusões e recomendações de negócio
-📈 Principais Insights
+
+# 📈 Principais Insights
 
 A análise revelou alguns padrões importantes relacionados ao churn:
 
@@ -82,7 +86,7 @@ Clientes com maior tempo de relacionamento com a academia possuem menor probabil
 
 Esses insights podem ajudar a empresa a desenvolver estratégias mais eficazes de retenção de clientes.
 
-🛠 Tecnologias Utilizadas
+# 🛠 Tecnologias Utilizadas
 Python
 Pandas
 NumPy
