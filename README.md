@@ -49,10 +49,10 @@ A variável Churn indica se o cliente cancelou ou não a assinatura.
 Projeto-Model-Fitness
 │
 ├── data
-│   └── gym_churn_us.csv
+│ └── gym_churn_us.csv
 │
 ├── notebook
-│   └── notebook.ipynb
+│ └── notebook.ipynb
 │
 └── README.md
 
