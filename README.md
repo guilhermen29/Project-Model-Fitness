@@ -1,4 +1,5 @@
 🏋️ Model Fitness – Análise de Churn
+
 📊 Descrição do Projeto
 
 A rede de academias Model Fitness está desenvolvendo uma estratégia de relacionamento com clientes baseada em análise de dados.
@@ -15,6 +16,7 @@ Analisar os dados dos clientes da Model Fitness
 Identificar padrões associados ao cancelamento de clientes
 Comparar características de clientes que permaneceram e clientes que cancelaram
 Gerar insights que possam ajudar a reduzir o churn
+
 📂 Dataset
 
 O conjunto de dados contém informações sobre clientes da academia, incluindo dados demográficos, informações de contrato e comportamento de uso da academia.
@@ -43,6 +45,7 @@ Churn
 A variável Churn indica se o cliente cancelou ou não a assinatura.
 
 📁 Estrutura do Projeto
+
 Projeto-Model-Fitness
 │
 ├── data
